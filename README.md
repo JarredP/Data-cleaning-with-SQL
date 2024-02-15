@@ -1,1 +1,1 @@
-This repository contains SQL projects where I use SQL and SQL queries to clean data.
+This repository contains projects where I used SQL and SQL queries to clean data.
